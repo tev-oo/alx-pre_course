@@ -1,2 +1,2 @@
 My first readme
-Upadeted grom interface
+Upadated from GitHub.com interface
